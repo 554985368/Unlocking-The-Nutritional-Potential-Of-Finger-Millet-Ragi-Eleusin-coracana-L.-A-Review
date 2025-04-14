@@ -1,0 +1,2 @@
+# Unlocking-The-Nutritional-Potential-Of-Finger-Millet-Ragi-Eleusin-coracana-L.-A-Review
+This repository contains the source code, research materials, and documentation for our group project submitted to IJCRT (International Journal of Creative Research Thoughts), an international open access, peer-reviewed, and refereed journal (ISSN: 2320-2882). The project was collaboratively developed by our team as part of our academic curriculum.
